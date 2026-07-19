@@ -1,4 +1,4 @@
-# new # 💫 About Me:
+# 💫 About Me:
 i am student <br>learnig fullstack java development<br>
 
 
